@@ -1,4 +1,4 @@
 # hello-world
 Demo repository
 
-Thsi is demo for edit files
+This is demo for edit files
